@@ -5,3 +5,5 @@ Here is a simple portfolio webpage built using React. This assignment allowed me
 I will add a link to the deployed page here 
 
 
+# Notes 
+Utilized the opilot extension
